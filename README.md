@@ -8,6 +8,7 @@
 - ox_inventory
 - illenium-appearance
 - fivem-appearance
+- gridsystem
 
 *Factions:*
 - ballas
