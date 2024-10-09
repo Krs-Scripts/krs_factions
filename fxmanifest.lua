@@ -24,7 +24,6 @@ client_scripts {
 
 dependencies {
     'ox_lib',
-    'es_extended',
     'ox_inventory',
     'illenium-appearance',
     'fivem-appearance',
