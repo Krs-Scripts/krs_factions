@@ -1,3 +1,5 @@
+local choiceAppearance = "illenium-appearance"  -- fivem-appearance / illenium-appearance
+
 local function getPlayerData()
     ESX = exports.es_extended:getSharedObject()
     
